@@ -17,9 +17,6 @@
 		----------------
 */
 
-// Credits
-// 	- Southclaws for `action-text` from which creative-inspiration and the idea was taken.
-
 #include <a_samp>
 #include <memory>
 
