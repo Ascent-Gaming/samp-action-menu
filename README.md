@@ -7,13 +7,13 @@
 Simply install to your project:
 
 ```bash
-sampctl package install {{.User}}/{{.Repo}}
+sampctl package install Ascent-Gaming/samp-action-menu
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <{{.Repo}}>
+#include <action-menu>
 ```
 
 ## Usage
