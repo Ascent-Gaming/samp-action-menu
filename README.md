@@ -20,7 +20,7 @@ Include in your code and begin using the library:
 
  ```PAWN
 /*
-  playerid - The player to show the menu for.
+  playerid - The player to show the menu to.
   title[] - A title shown above the menu.
   subtitle[] - A subtitle shown below the title.
   info[] - A string containing a list of menu-items. Use \n to signify a new item.
@@ -32,7 +32,7 @@ forward ActionMenu_Hide(playerid);
  
  ```PAWN
 /*
-  playerid - The player who has given a response to a menu.
+  playerid - The player responded to a menu.
   bool:response - Weather or not the player has selected a listitem.
     True - The player made a selection
     False - The player did not make a selection.
